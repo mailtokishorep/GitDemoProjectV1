@@ -6,6 +6,8 @@ public class Test2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("2....2...Great Project Man!");
+		
+		System.out.println("ok added one more condition here, 3....3...Great Project Man!");
 
 	}
 
